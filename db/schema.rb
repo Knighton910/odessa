@@ -14,7 +14,7 @@
 ActiveRecord::Schema.define(version: 20141006175447) do
 
   create_table "todo_lists", force: true do |t|
-    t.string   "title"
+    t.string   "bitle"
     t.text     "description"
     t.datetime "created_at"
     t.datetime "updated_at"
