@@ -1,7 +1,9 @@
-== README
+== README for odessa
 
   <tt> i stop in the area of testing with rspec and capybara</tt>
   <tt> bdd and tdd </tt>
+
+
 
 <tt>rake doc:app</tt>.
 
